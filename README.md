@@ -1,2 +1,2 @@
-# venkatakanaparthi.com-
+# venkatakanaparthi.com
 Personal site
